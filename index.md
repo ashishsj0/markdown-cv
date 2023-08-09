@@ -13,7 +13,7 @@ Building Products | Sr. iOS Developer | Swift UI | Full-Stack MERN | Tech Startu
 
 Up for a new challenge
 
-### Specialized in
+## Specialized in
 
 Building Products, Software Development, iOS Development.
 
@@ -51,7 +51,7 @@ SVC / PM / Admin/ Leadership:
 • AGILE( SCRUM, KANBAN ), JIRA, Confluence, Documentation.
 • Zoho Tools, Zoho Projects, Sheets.
 
-### About me
+## About me
 
 I build not just Apps, but Products. Reach out if you need help with your idea, validation, MVP or a complete product. 
 
