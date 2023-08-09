@@ -14,22 +14,31 @@ Building Products | Sr. iOS Developer | Swift UI | Full-Stack MERN | Tech Startu
 Programming, iOS, Swift & SwiftUI:
 • Architecture/ DP - Factory, MVVM-C, MVVM, MVC, Singleton, Protocol,
 Delegation, Coordinator, Dependency Injection
+
 • SOLID, OOP, Concurrency, Closures, Opaque Types, Collection types,
 Generics, Memory Management (ARC, Retain Cycles)
+
 • TDD, Networking, Location Services, Localization, Carthage, Cocoapods,
 SPM, Combine, Notifications, Universal Links, Persistence ( UserDefaults,
 CoreData)
+
 • UIKit ( LifeCycle, AppDelegate, Navigation, Table, Collection, Stack,
 Gestures).
+
 • Interface - Storyboards, xib, Programmatic UIKit, SwiftUI.
+
 • SwiftUI: Animations, ViewModifiers, Macros, Environment & Preferences,
 Property Wrappers, and more. 
+
 • App Store Distribution, XCode Cloud, App Center, Rome, Fastlane, Travis
 CI.
+
 Full Stack Web
+
 • MERN, Web- AWS, Heroku, REST API Development, JSON, Mongo
 (Atlas), Node.js, Stripe, Twilio, Postman, Firebase, Firestore.
 SVC / PM / Admin/ Leadership:
+
 • Git, Gitflow, Github.
 • AGILE( SCRUM, KANBAN ), JIRA, Confluence, Documentation.
 • Zoho Tools, Zoho Projects, Sheets.
