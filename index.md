@@ -1,91 +1,139 @@
 ---
 layout: cv
-title: Ashish Sharma's CV
+title: Ashish Sharma
 ---
-# Isaac Newton
-Building Products | Sr. iOS Developer | Swift UI | Full-Stack MERN | Startup Experience
+# Ashish Sharma
+Building Products | Sr. iOS Developer | Swift UI | Full-Stack MERN | Tech Startup Experience
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:ashishsj0@gmail.com">Email me</a> | <a href="https://www.linkedin.com/in/sjashish/">Linkedin</a>
 </div>
 
+## Skills
+
+Programming, iOS, Swift & SwiftUI:
+• Architecture/ DP - Factory, MVVM-C, MVVM, MVC, Singleton, Protocol,
+Delegation, Coordinator, Dependency Injection
+• SOLID, OOP, Concurrency, Closures, Opaque Types, Collection types,
+Generics, Memory Management (ARC, Retain Cycles)
+• TDD, Networking, Location Services, Localization, Carthage, Cocoapods,
+SPM, Combine, Notifications, Universal Links, Persistence ( UserDefaults,
+CoreData)
+• UIKit ( LifeCycle, AppDelegate, Navigation, Table, Collection, Stack,
+Gestures).
+• Interface - Storyboards, xib, Programmatic UIKit, SwiftUI.
+• SwiftUI: Animations, ViewModifiers, Macros, Environment & Preferences,
+Property Wrappers, and more. 
+• App Store Distribution, XCode Cloud, App Center, Rome, Fastlane, Travis
+CI.
+Full Stack Web
+• MERN, Web- AWS, Heroku, REST API Development, JSON, Mongo
+(Atlas), Node.js, Stripe, Twilio, Postman, Firebase, Firestore.
+SVC / PM / Admin/ Leadership:
+• Git, Gitflow, Github.
+• AGILE( SCRUM, KANBAN ), JIRA, Confluence, Documentation.
+• Zoho Tools, Zoho Projects, Sheets.
 
 ## Currently
 
-Standing on the shoulders of giants
+Up for a new challenge
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Software Development, especially iOS Development.
 
+### About me
 
-### Research interests
+I build not just Apps, but Products. Reach out if you need help with your idea, validation, MVP or a complete product. 
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+I have: 
+- Proficiency in iOS development with Swift. ( ~6 years)
+- Very deep understanding and experience developing Full-stack Web Applications.
+- Extensive experience working as a freelancer with clients from different nations, leading project development, and developing iOS Applications end-to-end.
+- Developing & Launching MVPs, designs, flow & UX. 
 
+Reach out for: 
+
+- Product development, consultation. 
+- Mobile and web applications development.
+
+In my short Entrepreneurship experience as a founder of a technical software development company, I fulfilled several key responsibilities. A few of them were managing finances, products, operations, and customer relationships, and ensuring that the company is compliant with all applicable laws and regulations. 
+
+Striving to be a better software engineer and learn new things daily from everyone around me.
+
+## Experience 
+
+`Sep 2021 - Aug 2023`
+__iOS Developer, Sharecare GmbH__
+
+As a key iOS Developer at Sharecare, I've played a significant role in a dynamic team setting:
+• Developed and incorporated e-health features, including health trackers and HealthKit compatibility,
+mending issues, and upgrading existing functionalities.
+• Implemented new features in SwiftUI and helped the team patch up SwiftUI with the UIKit-based project
+efficiently.
+• Conducted thorough PR reviews, established unit and snapshot tests, tackled CI tool-reported issues, and
+streamlined automated build processes. 
+• Fostered clear communication within Development and QA teams, contributing significantly to design
+and product decisions.
+• Acted as the technical lead for feature roll-outs, Demonstrated new implementations and features to teams
+and stakeholders, effectively explaining their value and function.
+
+`Nov 2022 - Jun 2023`
+__Technology Lead and Team Management, SAFitware Technologies
+LLP ( Own Startup )__
+• Leading end-to-end iOS development and Node.js backend implementation, including payment gateways,
+deployment to AWS, and Heroku.
+• Leveraging Adobe XD and Zeplin for user-centric design and wireframing, translating vision into
+functional application interfaces
+• Managing and mentoring a diverse team of 7-8 members, fostering a collaborative environment that
+promotes innovation and efficient problem-solving
+
+`Mar 2021 - Aug 2021`
+__Thesis Student iOS Developer, ConfigCar GmbH__
+• Complete development of Connapted User and Connapted Business Partner e-commerce iOS & iPad OS
+Applications with Localization, Online Payment, and Navigation integration.
+• Tech highlights: Firebase (Auth, Storage, Firestore, Cloud Functions, Geo-hashing ), Stripe Payment
+Gateway, Navigation, MapKit.
+
+`Jan 2017 - Sep 2019`
+__iOS Developer, Multiple Roles__
+A short version of my work history in India before moving to Germany.
+• Development and Contribution to 20+ Applications using Augmented Reality, Payment Gateways, in
+domains like Dating, Communication, Social media, Augmented Reality, etc.
+• Developed the iOS app for one of India's leading Direct Selling Companies. E-commerce
+Freelance ( 2017 - 2019 )
+• Lead the product development and Developed Valetcopter, Valetcopter Driver Valet iOS apps, and 2040
+healthcare for online medical consultation services. (Project details on Linkedin.)
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep 2019 - Jul 2021`
+__Masters of Software Engineering for industrial applications., Hof
+University of Applied Sciences.__
+Final grade: 1.5 – Level in EQF: 7
+Thesis: AR-assisted indoor positioning system & calibration
+• iOS Application based on BLE and AR for indoor-navigation using RSSI-based algorithms and advanced
+filtering algorithms like Median and Kalman filter. 
+• Autonomous-driving (level 3) car, with an iPad app to control it manually over BLE.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Jul 2013 - Jun 2017`
+__Bachelor of Technology Computer Science and Engineering, MDU__
+• Graduated in CSE with a strong foundation in core programming languages, data structures, algorithms,
+Artificial Intelligence, and database management.
+• Developed an iOS app for vehicle auction as my final year project and received the highest possible grade
 
-- Sizar
+## Languages
 
-`1667 - death`
-__Trinity College, Cambridge__
+English - C2
+Hindi - Native
+German - Learning B1
 
-- Fellow
+## References
 
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Available upon request.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2023 -->
 
 
